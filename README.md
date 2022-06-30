@@ -2,4 +2,4 @@
 
 A practice on Association rules.
 
-Used Aproir methods.
+Used Apriori methods.
